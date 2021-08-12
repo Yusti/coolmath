@@ -1,0 +1,2 @@
+(this.webpackJsonpmathmagic=this.webpackJsonpmathmagic||[]).push([[0],{4:function(e,t,c){"use strict";c.r(t);c(0);var n=c(3),r=c.n(n),i=c(2),a=function(){return Object(i.jsx)("div",{className:"ui container",children:"Hi there!"})};r.a.render(Object(i.jsx)(a,{}),document.querySelector("#root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.313d510c.chunk.js.map
